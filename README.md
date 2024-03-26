@@ -11,7 +11,5 @@ are caused by two trailing spaces at the end of a line.
 
 [My personal website](https://vionwinnie.github.io/)
 
-### Carpentries Lesson Programs:
-- Software Carpentry
-- Data Carpentry
-- Library Carpentry
+### Resources for publishing this github pages:
+- [Carpentries](https://carpentries-incubator.github.io/jekyll-pages-novice/github-pages/index.html)
