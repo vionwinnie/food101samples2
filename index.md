@@ -1,3 +1,5 @@
+{% include navigation.html%}
+
 # food101samples2
 Repo for learning how to make websites with Jekyll and GitHub pages
 
