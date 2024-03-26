@@ -2,7 +2,7 @@
 Repo for learning how to make websites with Jekyll and GitHub pages
 
 ## Description
-THis is a sample website while learning how to use Jekyll and Github pages. More details about the project are available from the [About Me page](about).
+{{site.description}}
 
 ## Learning Markdown
 
@@ -16,3 +16,8 @@ are caused by two trailing spaces at the end of a line.
 
 ### Resources for publishing this github pages:
 - [Carpentries](https://carpentries-incubator.github.io/jekyll-pages-novice/github-pages/index.html)
+
+### Contact us
+More details about the project are available from the [About page](about).
+
+Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
